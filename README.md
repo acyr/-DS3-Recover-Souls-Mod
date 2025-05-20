@@ -3,6 +3,10 @@
 ## Version
 This mod is compatible with **Dark Souls III v1.15.2**
 
+## Download
+Download the [latest release](https://github.com/acyr/-DS3-Recover-Souls-Mod/releases/download/v0.9/DS3-Recover-Souls-Mod-0.9.zip) from GitHub.
+Also available on [NexusMods](https://www.nexusmods.com/darksouls3/mods/1986).
+
 ## Background
 This mod was created from the insights provided by the [Recover Souls Immediately](https://www.nexusmods.com/darksouls3/mods/1060) mod.
 
